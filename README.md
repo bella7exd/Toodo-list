@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="toodo" src="https://github.com/user-attachments/assets/9e36cca5-a99a-4ec5-bfb8-795586af1e78" />
 # 🌸 Toodo
 
 A beautiful, theme-based task manager built with Flutter. Designed for those who want their workspace to look as good as it functions, this app brings a soft, aesthetic touch to your daily to-do lists, making productivity feel less like a chore and more like organizing digital stationery.
